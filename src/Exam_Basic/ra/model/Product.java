@@ -1,4 +1,4 @@
-package ra.model;
+package Exam_Basic.ra.model;
 
 public class Product {
     private String productId;

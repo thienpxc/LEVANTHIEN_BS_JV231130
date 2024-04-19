@@ -1,6 +1,6 @@
-package ra.service;
+package Exam_Basic.ra.service;
 
-import ra.model.Product;
+import Exam_Basic.ra.model.Product;
 
 import java.util.ArrayList;
 import java.util.List;

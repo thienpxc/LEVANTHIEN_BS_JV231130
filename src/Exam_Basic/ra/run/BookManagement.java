@@ -1,14 +1,11 @@
-package ra.run;
+package Exam_Basic.ra.run;
 
-import ra.model.Catalog;
-import ra.model.Product;
-import ra.service.CatalogService;
-import ra.service.ProductService;
+import Exam_Basic.ra.model.Catalog;
+import Exam_Basic.ra.model.Product;
+import Exam_Basic.ra.service.CatalogService;
+import Exam_Basic.ra.service.ProductService;
 
-import java.util.List;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class BookManagement {
     private static CatalogService catalogService = new CatalogService();
